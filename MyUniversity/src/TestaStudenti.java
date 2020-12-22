@@ -7,7 +7,7 @@ public class TestaStudenti {
 		StudenteVecchio angelo = new StudenteVecchio("Angelo","Belardo",25,27,30);
 		StudenteVecchio valentina= new StudenteVecchio("Valentina","Russo",30,30,30);
 		
-		
+		StudenteVecchio valentino= new StudenteVecchio("Valentina","Russo",30,30,30);
 		
 		pasquale.stampaMedia();
 		angelo.stampaMedia();
